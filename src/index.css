@@ -188,6 +188,11 @@ Grocery List
   color: #721c24;
   background: #f8d7da;
 }
+
+.alert-update {
+  color: black;
+  background: #FFF6D3;
+}
 .alert-success {
   color: #155724;
   background: #d4edda;
